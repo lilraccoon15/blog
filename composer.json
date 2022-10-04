@@ -1,0 +1,15 @@
+{
+    "name": "camille/blog",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lilraccoon15",
+            "email": "camille.lefort15@gmail.com"
+        }
+    ],
+    "require": {}
+}
